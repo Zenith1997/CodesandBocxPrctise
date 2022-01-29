@@ -1,2 +1,2 @@
-# CodesandBocxPrctise
+# Sandbox
 Created with CodeSandbox
